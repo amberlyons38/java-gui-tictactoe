@@ -320,7 +320,7 @@ class TicTacToe extends JFrame{
     }
 }
 //Main class
-public class AmberLyonsLab11 {
+public class TicTacToeGame {
     public static void main(String[] args){
         //Creates a new TicTacToe object application
         TicTacToe application = new TicTacToe();
